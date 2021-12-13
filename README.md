@@ -49,5 +49,5 @@ For each context, I'd like to provide the following features:
 
 
 
-[1]: <http://github.com/cjungmann/bash_patterns.git    "bash_patterns"
+[1]: <http://github.com/cjungmann/bash_patterns.git>   "bash_patterns"
 [2]: <README_emacs.md>                                 "Emacs discussion"
