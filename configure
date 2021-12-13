@@ -1,0 +1,8 @@
+#!/usr/bin/env bash
+
+if ! [ -d bash_patterns ]; then
+    git clone https://github.com/cjungmann/bash_patterns
+    cp -s bash_patterns/cocolors .
+    cp -s bash_patterns/keypress .
+    cp -s bash_patterns/list_selector .
+fi
